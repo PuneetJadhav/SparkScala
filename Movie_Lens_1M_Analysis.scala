@@ -3,7 +3,7 @@ import org.apache.spark.sql.functions._
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.SparkContext
 
-object feb2018part2 {
+object Movie_Lens {
  
   def main(args:Array[String]){
       val sc= new SparkContext("local[*]","sparkContext")
