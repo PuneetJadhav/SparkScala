@@ -1,4 +1,4 @@
-package org.apache.spark.project1.copy
+package org.apache.spark.project
 import org.apache.spark._
 import org.apache.spark.SparkContext._
 import org.apache.log4j._
